@@ -2,7 +2,7 @@
 title: 简介
 keywords: 博客生成器,博客生成器简介
 desc: description for this article
-date: 2022-09-01
+date: 2023-07-19
 ---
 `博客生成器`是一款使用 [Web框架](https://zhuanlan.zhihu.com/p/59841196) 开发的**简洁、优雅、跨平台、对博主友好**的在线生成博客网站。
 
