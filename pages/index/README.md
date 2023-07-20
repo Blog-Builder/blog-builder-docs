@@ -1,6 +1,6 @@
 ---
 title: 博客生成器帮助文档
-keywords: my_site
+keywords: 博客生成器,帮助文档,博客生成器帮助文档
 desc: my_site, generated with teedoc, a static site generator
 id: home_page
 ---
@@ -13,7 +13,7 @@ id: home_page
 <div id="fullpage">
     <div class="section" style="height: 100vh;">
         <div>
-            <h1><span>teedoc</span></h1>
+            <h1><span>博客生成器</span></h1>
             <h3>简而全的开源静态网站/文档/博客生成器</h3>
         </div>
         <div class="big_btn_wrapper">
@@ -41,7 +41,7 @@ id: home_page
         <div>
             <div class="dsc_left">
                 <img class="logo" src="https://teedoc.github.io/static/image/windows.svg"> <img class="logo" src="https://teedoc.github.io/static/image/linux.svg"> <img class="logo" src="https://teedoc.github.io/static/image/mac.svg"><br/>
-                使用 python 编写， 跨平台， 使用 pip 即可安装，</br>
+                使用 Web 编写， 跨平台， 使用 浏览器 即可安装，</br>
                 <img class="logo" src="https://teedoc.github.io/static/image/plugin.svg"> 支持插件安装及自定义插件
             </div>
             <div class="dsc_right">
@@ -88,7 +88,7 @@ id: home_page
     <div class="section dsc_wrapper_right">
         <div>
             <div class="dsc_left">
-                <img class="logo" src="https://teedoc.github.io/static/image/server.svg"> 生成的都是静态页面，拷贝到服务器即可完成部署</br>
+                <img class="logo" src="https://teedoc.github.io/static/image/server.svg"> 生成的都是静态页面，点击部署按钮即可完成部署</br>
                 <img class="logo" src="https://teedoc.github.io/static/image/seo.svg"> SEO 友好，比如 页关键词自定义、sitemap自动生成等
             </div>
             <div class="dsc_right">
